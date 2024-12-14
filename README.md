@@ -129,15 +129,7 @@ root/
 
 ## Screenshots 🖼️
 
-### 1. Stock Data Viewer
-Displays stock data table and closing prices chart.
-
-![Stock Data Viewer](https://via.placeholder.com/600x400)
-
-### 2. News Sentiment Analysis
-Shows news headlines with sentiment polarity.
-
-![Sentiment Analysis](https://via.placeholder.com/600x400)
+![image](https://github.com/user-attachments/assets/5a4b6a8d-8e95-4d83-90f1-29eb57225c40)
 
 ---
 
