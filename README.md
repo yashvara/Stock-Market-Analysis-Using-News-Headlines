@@ -133,15 +133,6 @@ root/
 
 ---
 
-## Future Enhancements 🌟
-
-- Add daily or weekly stock data.
-- Include historical sentiment trends.
-- Enable comparison between multiple stock symbols.
-- Integrate machine learning for price predictions.
-
----
-
 ## Contributing 🤝
 
 Feel free to fork this repository and submit pull requests! Any contributions are appreciated.
